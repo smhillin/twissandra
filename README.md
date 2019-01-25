@@ -20,7 +20,7 @@ install the project:
 
 ### Check out the Twissandra source code
 
-    git clone git://github.com/twissandra/twissandra.git
+    git clone git://github.com/smhillin/twissandra.git
 
 ### Install and configure Cassandra
 
