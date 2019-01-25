@@ -67,6 +67,8 @@ command to create the proper keyspace in Cassandra:
 This is the fun part! We're done setting everything up, we just need to run it:
 
     python manage.py runserver
+    
+    ctrl-z and then type bg to run in background
 
 Now go to http://127.0.0.1:8000/ and you can play with Twissandra!
 
