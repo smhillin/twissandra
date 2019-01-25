@@ -73,6 +73,7 @@ def _get_line(table, username, start, limit):
     query = query.format(table=table, time_clause=time_clause)
 
     results = session.execute(query, params)
+    results = list(results)
     if not results:
         return [], None
 
