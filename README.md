@@ -77,7 +77,7 @@ This is the fun part! We're done setting everything up, we just need to run it:
     
     to run in background
 
-Now go to http://<your-ip>:8000/ and you can play with Twissandra!
+Now go to http://your-ip:8000/ and you can play with Twissandra!
 
 ## Schema Layout
 
