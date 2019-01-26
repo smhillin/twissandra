@@ -36,7 +36,7 @@ And then make sure Cassandra is running:
 First, make sure to have virtualenv installed.  If it isn't installed already,
 this should do the trick:
 
-    sudo easy_install -U virtualenv
+    sudo apt install virtualenv
 
 Now let's create a new virtual environment, and begin using it:
 
