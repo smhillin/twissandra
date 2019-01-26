@@ -59,7 +59,8 @@ the server.
 
 Make sure you're in the Twissandra checkout, and then run the sync_cassandra
 command to create the proper keyspace in Cassandra:
-
+    
+    cd twissandra
     python manage.py sync_cassandra
 
 ### Start up the webserver
